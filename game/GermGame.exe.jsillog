@@ -1,0 +1,29 @@
+// JSILc v0.8.38735
+// Build took 0019.36 second(s).
+// The following configuration was used when translating 'C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\GermGame.exe':
+{"ContributingPaths":["C:\\Users\\LH\\Desktop\\JSIL\\bin\\defaults.jsilconfig","C:\\Users\\LH\\Desktop\\GermGame\\Unit 12 Germ Game\\GermGame\\GermGame.sln.jsilconfig"],"Path":"C:\\Users\\LH\\Desktop\\GermGame\\Unit 12 Germ Game\\GermGame","SolutionBuilder":{"Configuration":null,"Platform":null,"Target":null,"LogVerbosity":null,"ExtraOutputs":[]},"Quiet":null,"AutoLoadConfigFiles":null,"UseLocalProxies":null,"ReuseTypeInfoAcrossAssemblies":null,"ProxyWarnings":false,"OutputDirectory":"C:\\Users\\LH\\Desktop\\outputDir","FileOutputDirectory":null,"Profile":"XNA4","ProfileSettings":{"OverwriteExistingContent":true,"ContentOutputDirectory":"%outputdirectory%/Content"},"AnalyzerSettings":{},"CustomVariables":{},"ApplyDefaults":null,"IncludeDependencies":null,"UseSymbols":null,"UseThreads":null,"UseDefaultProxies":null,"GenerateSkeletonsForStubbedAssemblies":null,"SkipManifestCreation":null,"GenerateContentManifest":null,"RunBugChecks":null,"TuneGarbageCollection":null,"FilenameEscapeRegex":null,"FilenameReplaceRegexes":{},"AssemblyCollectionName":null,"EmitterFactories":[],"BuildSourceMap":null,"InlineAssemblyReferences":null,"FrameworkVersion":4,"Assemblies":{"TranslateAdditional":[],"Ignored":["Microsoft\\.VisualC,","Accessibility,","SMDiagnostics,","System\\.EnterpriseServices,","System\\.Security,","System\\.Runtime\\.Serialization\\.Formatters\\.Soap,","System\\.Runtime\\.DurableInstancing,","System\\.Data\\.SqlXml,","JSIL\\.Meta,"],"Stubbed":["^mscorlib,","^System,","^System\\.(.+),","^Microsoft\\.(.+),","FSharp.Core,"],"Proxies":["C:\\Users\\LH\\Desktop\\JSIL\\bin\\JSIL.Proxies.XNA4.dll"],"Redirects":{}},"CodeGenerator":{"EliminateStructCopies":null,"SimplifyOperators":null,"SimplifyLoops":null,"EliminateTemporaries":null,"EliminateRedundantControlFlow":null,"CacheMethodSignatures":null,"DisableGenericSignaturesLocalCache":null,"PreferLocalCacheForGenericMethodSignatures":null,"PreferLocalCacheForGenericInterfaceMethodSignatures":null,"CacheOneMethodSignaturePerMethod":null,"CacheTypeExpressions":null,"CacheBaseMethodHandles":null,"EliminatePointlessFinallyBlocks":null,"PreferAccessorMethods":null,"HintIntegerArithmetic":null,"EnableThreadedTransforms":null,"FreezeImmutableObjects":null,"EnableUnsafeCode":null,"HoistAllocations":null,"HintDoubleArithmetic":null,"AutoGenerateEventAccessorsInSkeletons":null,"AggressivelyUseElementProxies":null,"EmitAllParameterNames":null,"StripUnusedLoopNames":null,"IntroduceCharCasts":null,"IntroduceEnumCasts":null,"EmulateInt64":null,"DecomposeAllMutationOperators":null}}
+// The configuration was generated from the following configuration files:
+C:\Users\LH\Desktop\JSIL\bin\defaults.jsilconfig
+C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame.sln.jsilconfig
+// The following outputs were produced:
+GermGame.exe.manifest.js
+XNA.Colors.js
+GermGame, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.js
+mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553.js
+Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553.js
+Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553.js
+System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a.js
+System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553.js
+Microsoft.Xna.Framework.Input.Touch, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553.js
+System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a.js
+System.Deployment, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a.js
+System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+Microsoft.Xna.Framework.RuntimeProfile
+// The following method(s) were ignored due to untranslatable variables:
+// Miscellaneous log output follows:
+
